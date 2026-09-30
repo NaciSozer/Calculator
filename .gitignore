@@ -1,0 +1,10 @@
+
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+calculator.db
+calculator.db-shm
+calculator.db-wal
